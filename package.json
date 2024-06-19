@@ -1,6 +1,16 @@
 {
   "name": "portfolio-next",
   "version": "0.1.0",
+  "description": "My portfolio built with Next.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhishekbhatia/portfolio-next.git"
+  },
+  "author": {
+    "name": "Prarup Gurung",
+    "email": "grgprarup@gmail.com"
+  },
+  "license": "GPL-3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
